@@ -1,1 +1,1 @@
-worker: python vedantu.py
+worker: python main.py
