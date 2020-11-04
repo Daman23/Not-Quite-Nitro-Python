@@ -1,12 +1,8 @@
-dhooks
+events
 requests
 asyncio
 unidecode
 timestamp
-lomond
-bs4
-colorama
-websocket_client
-discord==0.16.12
+
 
 
